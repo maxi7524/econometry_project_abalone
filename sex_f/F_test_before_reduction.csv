@@ -1,0 +1,9 @@
+Tested feature,F statistic,P_statistic,P value,Odrzucenie $H_0$ dla $lpha = 0.05$
+Długość/Wysokość,2.2007026056763217,11516,0.11516884831151689,False
+Masa/objętość,0.3555815466098852,51252,0.5125248747512525,False
+Waga_powłoki/Cała_waga,0.04638916418980116,83287,0.8328716712832872,False
+Waga_po_obraniu/Cała_waga,137.9433318901819,0,9.99990000099999e-06,True
+Waga_trzewi/Cała_waga,33.58466189569413,0,9.99990000099999e-06,True
+Waga_powłoki/Waga_po_obraniu,91.54662988973651,0,9.99990000099999e-06,True
+Waga_trzewi/Waga_po_obraniu,26.586526058685784,0,9.99990000099999e-06,True
+Waga_trzewi/Waga_powłoki,4.01511755066324,4506,0.045069549304506955,True
